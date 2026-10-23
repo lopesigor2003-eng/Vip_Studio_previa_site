@@ -1,0 +1,6 @@
+{
+  "name": "Vip Studio - Treinamento Físico Personalizado",
+  "description": "Vip Studio: Treinamento físico personalizado com foco em amizade, acolhimento e transformação. Saúde, movimento e qualidade de vida em Santa Maria, RS. Agende sua aula!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

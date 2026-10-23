@@ -90,8 +90,8 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
               <div className="aspect-[4/3] sm:aspect-[16/10] lg:aspect-[4/5] relative overflow-hidden">
                 {!heroImgError ? (
                   <img
-                    src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ru0KLQI8br6lcwOnlyn35wukzCe_VRao5X0BweeKKMqvQ_TG_Jpm9-kMjcOTMvvhojkk75hxcRPxgBC1fQMhLMD3FKs-3kmKaEotWPJtZZbQ4kgcrcDfXp6aif25-RFb9hQ6is=w1200-h800-k-no"
-                    alt="Interior e estrutura do Vip Studio em Santa Maria"
+                    src="https://i.postimg.cc/GhfvBPtD/fullsize-2017-09-04-09-Logo-221049-37530-094433693-1762899904.jpg"
+                    alt="Vip Studio - Treinamento Físico Personalizado"
                     className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-105"
                     loading="lazy"
                     decoding="async"
